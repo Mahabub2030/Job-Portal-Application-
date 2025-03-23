@@ -20,7 +20,7 @@ A full-stack job portal application that allows users to post and apply for jobs
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/job-portal.git
+   git clone https://github.com/Mahabub2030/Job-Portal-Application-.git
    cd job-portal
    ```
 
